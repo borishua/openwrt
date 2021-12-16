@@ -1,0 +1,6 @@
+! Title: Allowlist Personal
+! Version: 2021-12-16
+! Total count: 1
+
+#联通云服务forApple
+@@||cu-cn-north00002.gala.convection.cn^
