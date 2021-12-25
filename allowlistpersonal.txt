@@ -4,3 +4,8 @@
 
 # 云服务 Apple相册同步
 @@||cu-cn-north00002.gala.convection.cn^
+# 大众点评
+@@||*.dpfile.com^
+@@||*.meituan.net^
+@@||*.meituan.com^
+@@||*.dianping.com^
