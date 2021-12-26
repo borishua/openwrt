@@ -1,6 +1,5 @@
 ! Title: Allowlist Personal
-! Version: 2021-12-16
-! Total count: 1
+! Version: 2021-12-26
 
 # 云服务 Apple相册同步
 @@||cu-cn-north00002.gala.convection.cn^
@@ -13,3 +12,8 @@
 @@||meituan.net^
 @@||meituan.com^
 @@||dianping.com^
+@@||img.meituan.net^
+@@||catdot.dianping.com^
+@@||catfront.dianping.com^
+@@||qcloud.dpfile.com^
+@@||meishi.meituan.com^
