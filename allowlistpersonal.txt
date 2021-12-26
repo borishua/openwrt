@@ -9,3 +9,7 @@
 @@||*.meituan.net^
 @@||*.meituan.com^
 @@||*.dianping.com^
+@@||dpfile.com^
+@@||meituan.net^
+@@||meituan.com^
+@@||dianping.com^
