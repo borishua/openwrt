@@ -1,27 +1,27 @@
 # 自用规则
-  - DOMAIN-SUFFIX,talkingdata.com,DIRECT
-  - DOMAIN-SUFFIX,aliyundrive.com,DIREC
-  - DOMAIN-SUFFIX,95599.cn,DIRECT
-  - DOMAIN-SUFFIX,abchina.com,DIRECT
-  - DOMAIN-SUFFIX,bscabank.com,DIRECT
-  - DOMAIN-SUFFIX,openaboc.cn,DIRECT
-  - DOMAIN-SUFFIX,openaboc.com,DIRECT
-  - DOMAIN-SUFFIX,openaboc.com.cn,DIRECT
-  - DOMAIN-SUFFIX,edaijia.cn,DIRECT
-  - DOMAIN-SUFFIX,edaijia.jikedata.com,DIRECT
-  - DOMAIN-SUFFIX,xdrig.com,DIRECT
-  - DOMAIN-SUFFIX,cl2009.com,DIRECT
-  - DOMAIN-SUFFIX,lanzoui.com,DIRECT
-  - DOMAIN-SUFFIX,baidupan.com,DIRECT
-  - DOMAIN-SUFFIX,51wnl-cq.com,DIRECT
-  - DOMAIN-SUFFIX,51wnl.com,DIREC
-  - DOMAIN,metrics.icloud.com,DIRECT
-  - DOMAIN-SUFFIX,alipan.club,DIRECT
-  - DOMAIN-SUFFIX,postar.cn,DIRECT
-  - DOMAIN-SUFFIX,shxgroup.net,DIRECT
-  - DOMAIN,app-image-production.oss-accelerate.aliyuncs.com,DIRECT
-  - DOMAIN-SUFFIX,ucloudlink.com,DIRECT
-  - DOMAIN-SUFFIX,mi.com,DIRECT
-  - DOMAIN,p.s.360.cn,DIREC
-  - DOMAIN-SUFFIX,azure.cn,DIRECT
-  - DOMAIN-SUFFIX,chinacloudapi.cn
+- DOMAIN-SUFFIX,talkingdata.com
+- DOMAIN-SUFFIX,aliyundrive.com
+- DOMAIN-SUFFIX,95599.cn
+- DOMAIN-SUFFIX,abchina.com
+- DOMAIN-SUFFIX,bscabank.com
+- DOMAIN-SUFFIX,openaboc.cn
+- DOMAIN-SUFFIX,openaboc.com
+- DOMAIN-SUFFIX,openaboc.com.cn
+- DOMAIN-SUFFIX,edaijia.cn
+- DOMAIN-SUFFIX,edaijia.jikedata.com
+- DOMAIN-SUFFIX,xdrig.com
+- DOMAIN-SUFFIX,cl2009.com
+- DOMAIN-SUFFIX,lanzoui.com
+- DOMAIN-SUFFIX,baidupan.com
+- DOMAIN-SUFFIX,51wnl-cq.com
+- DOMAIN-SUFFIX,51wnl.com,DIREC
+- DOMAIN,metrics.icloud.com
+- DOMAIN-SUFFIX,alipan.club
+- DOMAIN-SUFFIX,postar.cn
+- DOMAIN-SUFFIX,shxgroup.net
+- DOMAIN,app-image-production.oss-accelerate.aliyuncs.com
+- DOMAIN-SUFFIX,ucloudlink.com
+- DOMAIN-SUFFIX,mi.com
+- DOMAIN,p.s.360.cn,DIREC
+- DOMAIN-SUFFIX,azure.cn
+- DOMAIN-SUFFIX,chinacloudapi.cn
