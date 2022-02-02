@@ -1,0 +1,8 @@
+# 自用规则
+  - DOMAIN,ocsp.apple.com
+  - DOMAIN-SUFFIX,ehg-youtube.hitbox.com
+  - DOMAIN,hub5idx.v6.shub.sandai.net
+  - DOMAIN,hub5emu.v6.shub.sandai.net
+  - DOMAIN,hub5btmain.v6.shub.sandai.net
+  - DOMAIN-SUFFIX,qxzy.top
+  - IP-CIDR,203.107.1.1/24
