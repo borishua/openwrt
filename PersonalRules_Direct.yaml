@@ -1,27 +1,37 @@
 # 自用规则
-- DOMAIN-SUFFIX,talkingdata.com
-- DOMAIN-SUFFIX,aliyundrive.com
-- DOMAIN-SUFFIX,95599.cn
-- DOMAIN-SUFFIX,abchina.com
-- DOMAIN-SUFFIX,bscabank.com
-- DOMAIN-SUFFIX,openaboc.cn
-- DOMAIN-SUFFIX,openaboc.com
-- DOMAIN-SUFFIX,openaboc.com.cn
-- DOMAIN-SUFFIX,edaijia.cn
-- DOMAIN-SUFFIX,edaijia.jikedata.com
-- DOMAIN-SUFFIX,xdrig.com
-- DOMAIN-SUFFIX,cl2009.com
-- DOMAIN-SUFFIX,lanzoui.com
-- DOMAIN-SUFFIX,baidupan.com
-- DOMAIN-SUFFIX,51wnl-cq.com
-- DOMAIN-SUFFIX,51wnl.com,DIREC
-- DOMAIN,metrics.icloud.com
-- DOMAIN-SUFFIX,alipan.club
-- DOMAIN-SUFFIX,postar.cn
-- DOMAIN-SUFFIX,shxgroup.net
-- DOMAIN,app-image-production.oss-accelerate.aliyuncs.com
-- DOMAIN-SUFFIX,ucloudlink.com
-- DOMAIN-SUFFIX,mi.com
-- DOMAIN,p.s.360.cn,DIREC
-- DOMAIN-SUFFIX,azure.cn
-- DOMAIN-SUFFIX,chinacloudapi.cn
+  - DOMAIN-SUFFIX,talkingdata.com
+  - DOMAIN-SUFFIX,aliyundrive.com
+  - DOMAIN-SUFFIX,95599.cn
+  - DOMAIN-SUFFIX,abchina.com
+  - DOMAIN-SUFFIX,bscabank.com
+  - DOMAIN-SUFFIX,openaboc.cn
+  - DOMAIN-SUFFIX,openaboc.com
+  - DOMAIN-SUFFIX,openaboc.com.cn
+  - DOMAIN-SUFFIX,edaijia.cn
+  - DOMAIN-SUFFIX,edaijia.jikedata.com
+  - DOMAIN-SUFFIX,xdrig.com
+  - DOMAIN-SUFFIX,cl2009.com
+  - DOMAIN-SUFFIX,lanzoui.com
+  - DOMAIN-SUFFIX,baidupan.com
+  - DOMAIN-SUFFIX,51wnl-cq.com
+  - DOMAIN-SUFFIX,51wnl.com
+  - DOMAIN,metrics.icloud.com
+  - DOMAIN-SUFFIX,alipan.club
+  - DOMAIN-SUFFIX,postar.cn
+  - DOMAIN-SUFFIX,shxgroup.net
+  - DOMAIN,app-image-production.oss-accelerate.aliyuncs.com
+  - DOMAIN-SUFFIX,ucloudlink.com
+  - DOMAIN-SUFFIX,mi.com
+  - DOMAIN,p.s.360.cn,DIREC
+  - DOMAIN-SUFFIX,azure.cn
+  - DOMAIN-SUFFIX,chinacloudapi.cn
+  - DOMAIN-SUFFIX, local
+  - DOMAIN-SUFFIX,smtp
+  - DOMAIN-KEYWORD,aria2
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,17.0.0.0/8
+  - IP-CIDR,100.64.0.0/10
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,224.0.0.0/4
