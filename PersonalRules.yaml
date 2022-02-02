@@ -1,17 +1,6 @@
 # 自用规则
   - DOMAIN-SUFFIX,talkingdata.com,DIRECT
-  - DOMAIN-SUFFIX,aliyundrive.com,DIRECT
-  - DOMAIN-SUFFIX,raw.githubusercontent.com,🚀 海外服务
-  - DOMAIN-SUFFIX,cdn.jsdelivr.net,🚀 海外服务
-  - DOMAIN-SUFFIX,qcrane-1.xyz,🚀 海外服务
-  - DOMAIN-SUFFIX,iosgods.com,🚀 海外服务
-  - DOMAIN,ocsp.apple.com,REJECT
-  - DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
-  - DOMAIN,hub5idx.v6.shub.sandai.net,REJECT
-  - DOMAIN,hub5emu.v6.shub.sandai.net,REJECT
-  - DOMAIN,hub5btmain.v6.shub.sandai.net,REJECT
-  - DOMAIN-SUFFIX,twimg.com,🚀 海外服务
-  - DOMAIN-SUFFIX,easyintnet.com,🚀 海外服务
+  - DOMAIN-SUFFIX,aliyundrive.com,DIREC
   - DOMAIN-SUFFIX,95599.cn,DIRECT
   - DOMAIN-SUFFIX,abchina.com,DIRECT
   - DOMAIN-SUFFIX,bscabank.com,DIRECT
@@ -25,47 +14,19 @@
   - DOMAIN-SUFFIX,lanzoui.com,DIRECT
   - DOMAIN-SUFFIX,baidupan.com,DIRECT
   - DOMAIN-SUFFIX,51wnl-cq.com,DIRECT
-  - DOMAIN-SUFFIX,51wnl.com,DIRECT
-  - DOMAIN,widgy.fra1.digitaloceanspaces.com,🚀 海外服务
-  - DOMAIN-SUFFIX,widgy.icu,🚀 海外服务
+  - DOMAIN-SUFFIX,51wnl.com,DIREC
   - DOMAIN,metrics.icloud.com,DIRECT
-  - DOMAIN-SUFFIX,jsdelivr.com,🚀 海外服务
-  - DOMAIN-SUFFIX,acast.com,🚀 海外服务
-  - DOMAIN-SUFFIX,tunein.com,🚀 海外服务
-  - DOMAIN-SUFFIX,radiotime.com,🚀 海外服务
-  - DOMAIN-SUFFIX,cercube.com,🚀 海外服务
   - DOMAIN-SUFFIX,alipan.club,DIRECT
-  - DOMAIN,s6.jianshuapi.com,🚀 海外服务
   - DOMAIN-SUFFIX,postar.cn,DIRECT
   - DOMAIN-SUFFIX,shxgroup.net,DIRECT
   - DOMAIN,app-image-production.oss-accelerate.aliyuncs.com,DIRECT
-  - DOMAIN-SUFFIX,nfxhd.com,🚀 海外服务
-  - DOMAIN-SUFFIX,pornlulu.com,🚀 海外服务
-  - DOMAIN-SUFFIX,cqscmy.net,🚀 海外服务
-  - DOMAIN-SUFFIX,lbbf9.com,🚀 海外服务
-  - DOMAIN-SUFFIX,ddyunbo.com,🚀 海外服务
-  - DOMAIN-SUFFIX,51daao.com,🚀 海外服务
-  - DOMAIN-SUFFIX,hhmm0.com,🚀 海外服务
-  - DOMAIN-SUFFIX,crisp.chat,🚀 海外服务
-  - DOMAIN-SUFFIX,xn--5oq250jekh.com,🚀 海外服务
-  - DOMAIN-SUFFIX,easyintnet.com,🚀 海外服务
   - DOMAIN-SUFFIX,ucloudlink.com,DIRECT
   - DOMAIN-SUFFIX,mi.com,DIRECT
   - DOMAIN,p.s.360.cn,DIRECT
   - DOMAIN-SUFFIX,nslookup.io,🚀 海外服务
-  - DOMAIN-SUFFIX,chariz.com,🚀 海外服务
-  - DOMAIN-SUFFIX,packix.com,🚀 海外服务
-  - DOMAIN-SUFFIX,anamy.gay,🚀 海外服务
-  - DOMAIN-SUFFIX,i.repo.co.kr,🚀 海外服务
-  - DOMAIN-SUFFIX,limneos.net,🚀 海外服务
-  - DOMAIN-SUFFIX,zodttd.com,🚀 海外服务
-  - DOMAIN-SUFFIX,saurik.com,🚀 海外服务
-  - DOMAIN-SUFFIX,dynastic.co,🚀 海外服务
-  - DOMAIN-SUFFIX,sparkdev.me,🚀 海外服务
-  - DOMAIN-SUFFIX,co.kr,🚀 海外服务
-  - DOMAIN-SUFFIX,akemi.ai,🚀 海外服务
-  - DOMAIN-SUFFIX,editornah.top,🚀 海外服务
-  - DOMAIN-SUFFIX,rejail.ru,🚀 海外服务
   - DOMAIN-SUFFIX,azure.cn,DIRECT
   - DOMAIN-SUFFIX,chinacloudapi.cn,DIRECT
-  - DOMAIN-SUFFIX,qxzy.top,CT
+  - DOMAIN-SUFFIX,qxzy.top
+  - DOMAIN-SUFFIX,nslookup.io,🚀 海外
+  - DOMAIN-SUFFIX,nslookup.io,🚀 海外服务​
+31
