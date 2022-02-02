@@ -1,4 +1,5 @@
 # 自用规则
+payload:
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,qcrane-1.xyz
