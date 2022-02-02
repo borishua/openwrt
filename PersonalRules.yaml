@@ -22,11 +22,6 @@
   - DOMAIN,app-image-production.oss-accelerate.aliyuncs.com,DIRECT
   - DOMAIN-SUFFIX,ucloudlink.com,DIRECT
   - DOMAIN-SUFFIX,mi.com,DIRECT
-  - DOMAIN,p.s.360.cn,DIRECT
-  - DOMAIN-SUFFIX,nslookup.io,🚀 海外服务
+  - DOMAIN,p.s.360.cn,DIREC
   - DOMAIN-SUFFIX,azure.cn,DIRECT
-  - DOMAIN-SUFFIX,chinacloudapi.cn,DIRECT
-  - DOMAIN-SUFFIX,qxzy.top
-  - DOMAIN-SUFFIX,nslookup.io,🚀 海外
-  - DOMAIN-SUFFIX,nslookup.io,🚀 海外服务​
-31
+  - DOMAIN-SUFFIX,chinacloudapi.cn
