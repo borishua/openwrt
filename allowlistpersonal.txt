@@ -20,3 +20,22 @@
 @@||catfront.dianping.com^
 @@||qcloud.dpfile.com^
 @@||meishi.meituan.com^
+# 阿里系
+@@||aliyundrive.com^
+@@||h-adashx.ut.taobao.com^
+@@||apoll.m.taobao.com^
+@@||alipay.com^
+@@||alipayobjects.com^
+@@||dmall.com^
+# 携程
+@@||ctrip.com^
+# Apple
+@@||stats.gc.apple.com^
+# 天翼云
+@@||189.cn^
+# WPS升级
+@@||push.psvr.wps.cn^
+@@||pcfg.wps.cn^
+# 其他
+@@||talkingdata.com^
+@@||hamibot.com^
