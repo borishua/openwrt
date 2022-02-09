@@ -1,6 +1,7 @@
+! Title: Blocklists For Adguard Home
+! Version: 2022-02-09
 
-
-
-
+! ----------------------------Reject----------------------------
+# Apple 验证
 ||ocsp.apple.com
 ||ocsp2.apple.com
