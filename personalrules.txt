@@ -5,7 +5,6 @@
 # Apple 证书验证
 ||ocsp.apple.com
 ||ocsp2.apple.com
-
 ! ----------------------------Allow----------------------------
 # 数字人民币
 @@||pbcdci.cn^
