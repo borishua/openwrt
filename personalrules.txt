@@ -1,6 +1,12 @@
-! Title: Allowlist Personal For Adguard Home
+! Title: Personal Rules For Adguard Home
 ! Version: 2022-02-08
 
+！----------------------------Reject----------------------------
+
+||ocsp.apple.com
+||ocsp2.apple.com
+
+! ----------------------------Allow----------------------------
 # 数字人民币
 @@||pbcdci.cn^
 @@||*.pbcdci.cn^
