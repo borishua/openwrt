@@ -7,3 +7,10 @@ payload:
   - DOMAIN,hub5btmain.v6.shub.sandai.net
   - DOMAIN-SUFFIX,qxzy.top
   - IP-CIDR,203.107.1.1/24
+# 抖音
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,bytegecko.com
