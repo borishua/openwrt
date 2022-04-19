@@ -1,5 +1,6 @@
 # 自用规则
 payload:
+  - DOMAIN-SUFFIX,ibroadlink.com
   - DOMAIN-SUFFIX,talkingdata.com
   - DOMAIN-SUFFIX,aliyundrive.com
   - DOMAIN-SUFFIX,95599.cn
