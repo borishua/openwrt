@@ -30,6 +30,7 @@
 @@||dmall.com^
 # 携程
 @@||ctrip.com^
+@@||360.cn^
 # Apple
 @@||stats.gc.apple.com^
 # 天翼云
