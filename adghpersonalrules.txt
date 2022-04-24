@@ -1,5 +1,5 @@
 ! Title: Personal Rules For Adguard Home
-! Version: 2022-02-08
+! Version: 2022-04-24
 
 ! ----------------------------Allow----------------------------
 # 数字人民币
@@ -30,6 +30,7 @@
 @@||dmall.com^
 # 携程
 @@||ctrip.com^
+# 360系
 @@||360.cn^
 # Apple
 @@||stats.gc.apple.com^
