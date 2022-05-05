@@ -2,11 +2,15 @@
 payload:
   - DOMAIN,emby-cf.plusmedia.site
   - DOMAIN,emby.plusmedia.site
+  - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN,emby.xeton.dev
   - DOMAIN,jellyfin.xeton.dev
   - DOMAIN,movie.xeton.dev
   - DOMAIN,servers.xeton.dev
+  - DOMAIN-SUFFIX,xeton.dev 
   - DOMAIN,vip.pornemby.club
   - DOMAIN,vipemby.writerxhome.xyz
+  - DOMAIN-SUFFIX,writerxhome.xyz
+  - DOMAIN,emby.flowercloud.yt 
   - DOMAIN,emby.misakaf.xyz
-  - DOMAIN,embyaz.misakaf.xyz
+  - DOMAIN-SUFFIX,misakaf.xyz
