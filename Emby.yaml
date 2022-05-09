@@ -14,3 +14,13 @@ payload:
   - DOMAIN,emby.flowercloud.yt 
   - DOMAIN,emby.misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.xyz
+  - DOMAIN-SUFFIX,emby-cf.plusmedia.site
+  - DOMAIN-SUFFIX,tv.emby.media
+  - DOMAIN-SUFFIX,emby.media
+  - DOMAIN-SUFFIX,emby.xeton.dev
+  - DOMAIN-SUFFIX,tv.emby.neko.re
+  - DOMAIN-SUFFIX,jellyfin.xeton.dev
+  - DOMAIN-SUFFIX,movie.xeton.dev
+  - DOMAIN-SUFFIX,servers.xeton.dev
+  - IP-CIDR,38.94.111.242/32
+  - IP-CIDR,38.94.111.242/22
