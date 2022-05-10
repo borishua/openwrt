@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,writerxhome.xyz
   - DOMAIN,emby.flowercloud.yt 
   - DOMAIN,emby.misakaf.xyz
+  - DOMAIN-SUFFIX,easyemby.com
+  - DOMAIN,easyemby.com
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,emby-cf.plusmedia.site
   - DOMAIN-SUFFIX,tv.emby.media
