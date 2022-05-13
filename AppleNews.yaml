@@ -1,8 +1,16 @@
 payload:
-# NAME: iCloudPrivateRelay
+# > iCloudPrivateRelay
   - DOMAIN,mask-api.fe.apple-dns.net
   - DOMAIN,mask-api.icloud.com
   - DOMAIN,mask-h2.icloud.com
   - DOMAIN,mask-t.apple-dns.net
   - DOMAIN,mask.apple-dns.net
   - DOMAIN,mask.icloud.com
+# > iCloud
+  - DOMAIN-SUFFIX,gateway.icloud.com
+# > Apple News
+  - DOMAIN-SUFFIX,news-edge.apple.com
+  - DOMAIN-SUFFIX,news-events.apple.com
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com
+# News+ Audio
+  - DOMAIN-SUFFIX,news-assets.apple.com
