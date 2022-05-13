@@ -17,3 +17,16 @@ payload:
 # TestFlight 
   - DOMAIN,beta.apple.com
   - DOMAIN-KEYWORD,testflight
+# > Apple News
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,apple.comscoreresearch.com
+# > Apple Siri Services
+  - DOMAIN,lookup-api.apple.com.edgekey.net
+  - DOMAIN,e16991.b.akamaiedge.net
+# > Wikipedia For Siri
+  - DOMAIN,lookup-api.apple.com
+  - DOMAIN,lookup-api.apple.com.edgekey.net
+  - DOMAIN,e16991.b.akamaiedge.net
