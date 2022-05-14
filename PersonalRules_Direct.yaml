@@ -1,5 +1,12 @@
 # 自用规则
 payload:
+  - DOMAIN-SUFFIX,speedtest.cn
+  - DOMAIN-SUFFIX,alipayobjects.com
+  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN,apoll.m.taobao.com
+  - DOMAIN,h-adashx.ut.taobao.com
+  - DOMAIN-SUFFIX,talkingdata.com
+  - DOMAIN-SUFFIX,aliyundrive.com
   - DOMAIN-SUFFIX,ibroadlink.com
   - DOMAIN-SUFFIX,talkingdata.com
   - DOMAIN-SUFFIX,aliyundrive.com
