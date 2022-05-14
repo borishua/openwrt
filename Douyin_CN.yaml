@@ -1,0 +1,8 @@
+# 抖音CN
+payload:
+  - DOMAIN-SUFFIX,bytegecko.com
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,douyinpic.com
