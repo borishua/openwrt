@@ -10,3 +10,6 @@ payload:
 # HDOBOX 去广告
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
+# OPPO
+  - DOMAIN-SUFFIX,ads.oppomobile.com
+  - DOMAIN,adsfs.oppomobile.com
