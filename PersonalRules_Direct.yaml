@@ -46,3 +46,4 @@ payload:
   - IP-CIDR,224.0.0.0/4
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN,adguard-dns.com
+  - DOMAIN-SUFFIX,adguard.com
