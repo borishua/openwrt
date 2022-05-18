@@ -42,3 +42,4 @@ payload:
   - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
   - DOMAIN-SUFFIX,vod0051-aliyun18-vip-lixian.mypikpak.com
   - DOMAIN,pikpak.com
+  - DOMAIN-SUFFIX,adguard-dns.io
