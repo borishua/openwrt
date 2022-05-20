@@ -30,10 +30,10 @@ payload:
   - DOMAIN,app-image-production.oss-accelerate.aliyuncs.com
   - DOMAIN-SUFFIX,ucloudlink.com
   - DOMAIN-SUFFIX,mi.com
-  - DOMAIN,p.s.360.cn,DIREC
+  - DOMAIN,p.s.360.cn
   - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,chinacloudapi.cn
-  - DOMAIN-SUFFIX, local
+  - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,smtp
   - DOMAIN-KEYWORD,aria2
   - IP-CIDR,10.0.0.0/8
