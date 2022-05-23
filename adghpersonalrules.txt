@@ -1,5 +1,5 @@
 ! Title: Personal Rules For Adguard Home
-! Version: 2022-05-21
+! Version: 2022-05-23
 ! ----------------------------Allow----------------------------
 # 数字人民币
 @@||pbcdci.cn^
@@ -38,6 +38,8 @@
 # WPS升级
 @@||push.psvr.wps.cn^
 @@||pcfg.wps.cn^
+# 微软登陆
+@@||login.windows.net^
 # 其他
 @@||talkingdata.com^
 @@||hamibot.com^
