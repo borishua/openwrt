@@ -72,3 +72,7 @@
 @@||fus.cdn.krcom.cn
 @@||ol.epicgames.com
 @@||tracking-protection.cdn.mozilla.net
+# 其他
+@@||app.chat.xiaomi.net^
+@@||api.xiaomi.com^
+@@||sub.id9.cc^
