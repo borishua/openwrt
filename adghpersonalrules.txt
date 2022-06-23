@@ -72,6 +72,9 @@
 @@||fus.cdn.krcom.cn
 @@||ol.epicgames.com
 @@||tracking-protection.cdn.mozilla.net
+# 脉脉APP
+@@||maimai.cn^
+@@||*.taou.com^
 # 其他
 @@||app.chat.xiaomi.net^
 @@||api.xiaomi.com^
