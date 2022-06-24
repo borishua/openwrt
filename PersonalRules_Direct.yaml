@@ -1,6 +1,7 @@
 # 自用规则
 payload:
   - DOMAIN-SUFFIX,speedtest.cn
+  - DOMAIN-SUFFIX,hamibot.com
   - DOMAIN-SUFFIX,alipayobjects.com
   - DOMAIN-SUFFIX,alipay.com
   - DOMAIN,apoll.m.taobao.com
