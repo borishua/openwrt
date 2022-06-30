@@ -1,5 +1,5 @@
 ! Title: Personal Rules For Adguard Home
-! Version: 2022-05-23
+! Version: 2022-06-30
 ! ----------------------------Allow----------------------------
 # 数字人民币
 @@||pbcdci.cn^
