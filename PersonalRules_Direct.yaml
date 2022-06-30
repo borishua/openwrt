@@ -36,6 +36,33 @@ payload:
   - DOMAIN-SUFFIX,chinacloudapi.cn
   - DOMAIN,resolver.msg.xiaomi.net
   - DOMAIN,app.chat.xiaomi.net
+  - DOMAIN-SUFFIX,tutorialxiaomi.com
+  - DOMAIN,app.market.xiaomi.com
+  - DOMAIN,cdn-thumb.fds.api.xiaomi.com
+  - DOMAIN,data.mistat.xiaomi.com
+  - DOMAIN,image.box.xiaomi.com
+  - DOMAIN,package.wallpaper.cdn.pandora.xiaomi.com.lan
+  - DOMAIN,pdc.micloud.xiaomi.net
+  - DOMAIN,sec.resource.xiaomi.net
+  - DOMAIN,w.pandora.xiaomi.com
+  - DOMAIN,wallpaper.cdn.pandora.xiaomi.com
+  - DOMAIN,wtradv.market.xiaomi.com
+  - DOMAIN-SUFFIX,xiaomi-miui.gr
+  - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
+  - DOMAIN-SUFFIX,xiaomifirmwareupdater.com
+  - DOMAIN-SUFFIX,xiaomitoday.com
+  - DOMAIN-SUFFIX,xmpush.xiaomi.com
+  - DOMAIN-SUFFIX,api.jr.mi.com
+  - DOMAIN-SUFFIX,acs.m.taobao.com
+  - DOMAIN-SUFFIX,taojinbi.taobao.com
+  - DOMAIN-SUFFIX,click.mz.simba.taobao.com
+  - DOMAIN-SUFFIX,click.taobao.com
+  - DOMAIN-SUFFIX,err.taobao.com
+  - DOMAIN-SUFFIX,odin.re.taobao.com
+  - DOMAIN-SUFFIX,retcode.taobao.com
+  - DOMAIN-SUFFIX,simba.taobao.com
+  - DOMAIN-SUFFIX,icashier.alipay.com
+  - DOMAIN-SUFFIX,iopen.alipay.com  
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,smtp
   - DOMAIN-KEYWORD,aria2
