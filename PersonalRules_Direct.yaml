@@ -34,6 +34,8 @@ payload:
   - DOMAIN,p.s.360.cn
   - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,chinacloudapi.cn
+  - DOMAIN,resolver.msg.xiaomi.net
+  - DOMAIN,app.chat.xiaomi.net
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,smtp
   - DOMAIN-KEYWORD,aria2
