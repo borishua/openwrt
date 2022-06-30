@@ -89,14 +89,3 @@
 @@||360safe.com^
 @@||000714.xyz^
 @@||blueskyxn.com^
-||page.amap.com^
-||google.com/pagead/
-||static.doubleclick.net^$domain=youtube.com
-||youtube.com/get_midroll_
-||5hz.org^
-||topnewsfeeds.net^
-||nbryb.com^
-||superbdolly.com^
-||salutationcheerlessdemote.com^
-||buildingdoodlesquare.com^
-||colonistnobilityheroic.com^
