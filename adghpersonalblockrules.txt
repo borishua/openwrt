@@ -1,0 +1,15 @@
+! Title: Personal BlockRules For Adguard Home
+! Version: 2022-06-30
+! ----------------------------Allow----------------------------
+# 屏蔽
+||page.amap.com^
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+||5hz.org^
+||topnewsfeeds.net^
+||nbryb.com^
+||superbdolly.com^
+||salutationcheerlessdemote.com^
+||buildingdoodlesquare.com^
+||colonistnobilityheroic.com^
