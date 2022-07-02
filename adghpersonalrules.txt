@@ -76,6 +76,7 @@
 @@||maimai.cn^
 # @@||*.taou.com^
 # 其他
+@@||api.upgrade.skysrt.com^
 @@||app.chat.xiaomi.net^
 @@||api.xiaomi.com^
 @@||sub.id9.cc^
