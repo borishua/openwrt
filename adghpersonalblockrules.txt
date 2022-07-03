@@ -2,6 +2,10 @@
 ! Version: 2022-06-30
 ! ----------------------------Allow----------------------------
 # 屏蔽
+||applog.uc.cn^
+||ulogs.umengcloud.com^
+||ulogs.umeng.com^
+||fp-it.fengkongcloud.com^
 ||page.amap.com^
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
