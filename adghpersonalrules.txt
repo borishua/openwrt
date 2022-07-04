@@ -91,3 +91,5 @@
 @@||360safe.com^
 @@||000714.xyz^
 @@||blueskyxn.com^
+@@||*.uopes.cn^
+@@||*.dt.hicloud.com^
