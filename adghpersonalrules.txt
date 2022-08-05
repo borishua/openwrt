@@ -75,6 +75,11 @@
 # 脉脉APP
 @@||maimai.cn^
 # @@||*.taou.com^
+# 土巴兔
+@@||appapi.to8to.com^
+@@||apigw.to8to.com^
+@@||mapp.to8to.com^
+@@||live.to8to.com^
 # 其他
 @@||update01.skyworth-cloud.com^
 @@||api.upgrade.skysrt.com^
