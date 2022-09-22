@@ -1,6 +1,6 @@
 # 自用规则
 payload:
-  - DOMAIN,ocsp.apple.com
+#  - DOMAIN,ocsp.apple.com
   - DOMAIN-SUFFIX,ehg-youtube.hitbox.com
   - DOMAIN,hub5idx.v6.shub.sandai.net
   - DOMAIN,hub5emu.v6.shub.sandai.net
