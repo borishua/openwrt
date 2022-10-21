@@ -1,5 +1,6 @@
 # 自用规则
 payload:
+  - DOMAIN-SUFFIX,myunidays.uk
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,hamibot.com
   - DOMAIN-SUFFIX,alipayobjects.com
