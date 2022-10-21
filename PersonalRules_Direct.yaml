@@ -1,5 +1,6 @@
 # 自用规则
 payload:
+  - DOMAIN-KEYWORD,unidays
   - DOMAIN-SUFFIX,myunidays.uk
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,hamibot.com
