@@ -13,3 +13,5 @@ payload:
 # OPPO
   - DOMAIN-SUFFIX,ads.oppomobile.com
   - DOMAIN,adsfs.oppomobile.com
+# 拦截100
+  - DOMAIN,ntb.lanjie100.com
