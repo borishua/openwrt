@@ -296,3 +296,13 @@ payload:
   - DOMAIN-SUFFIX,gc.apple.com
   - DOMAIN-SUFFIX,wwwicloud.com
   - DOMAIN-KEYWORD,icloud.com.akadns.net
+# 墨鱼2022-08-12
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN,www.libvio.com
+  - DOMAIN,www.zzzfun.com
+  - DOMAIN,www.zhenbuka3.com
+  - DOMAIN,www.abskoop.com
+  - DOMAIN-SUFFIX,qianoo.cn
+  - DOMAIN-SUFFIX,nfmovies.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-KEYWORD,bimiacg
