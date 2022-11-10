@@ -2,6 +2,7 @@
 payload:
   - DOMAIN-KEYWORD,unidays
   - DOMAIN-SUFFIX,myunidays.uk
+  - DOMAIN-SUFFIX,cmbchina.com
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,hamibot.com
   - DOMAIN-SUFFIX,alipayobjects.com
