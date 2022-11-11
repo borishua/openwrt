@@ -35,7 +35,7 @@ payload:
   - DOMAIN,tnc3-aliec2.snssdk.com
   - DOMAIN,upload-images.jianshu.io
   - DOMAIN,support.you.163.com
-  - DOMAIN,cm-cn-central-00001.albatross.10086.cn
+#  - DOMAIN,cm-cn-central-00001.albatross.10086.cn
   - DOMAIN,cloudmobi-creative-center.s3.ap-southeast-1.amazonaws.com
   - DOMAIN,s.openmediation.com
   - DOMAIN,api.applovefrom.com
