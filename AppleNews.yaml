@@ -32,3 +32,4 @@ payload:
   - DOMAIN,e16991.b.akamaiedge.net
 # openai  temp
   - DOMAIN,openai.com
+  - DOMAIN,chatopenai.com
