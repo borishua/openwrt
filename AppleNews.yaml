@@ -30,3 +30,5 @@ payload:
   - DOMAIN,lookup-api.apple.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
   - DOMAIN,e16991.b.akamaiedge.net
+# openai  temp
+  - DOMAIN,openai.com
