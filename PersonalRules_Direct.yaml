@@ -79,6 +79,11 @@ payload:
 #  - DOMAIN-SUFFIX,adguard-dns.com
 #  - DOMAIN,adguard-dns.com
 #  - DOMAIN-SUFFIX,adguard.com
+# 炒股app
+#DOMAIN-SUFFIX,xueqiu.com
+  - DOMAIN-KEYWORD,10jqka
+  - IP-CIDR,47.75.231.220/32,no-resolve
+  - IP-CIDR,47.89.2.206/32,no-resolve
 # 网易NetEase
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
