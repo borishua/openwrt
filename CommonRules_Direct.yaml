@@ -43,9 +43,3 @@ payload:
   - DOMAIN,tracking.miui.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
-#炒股
-#炒股app
-  - DOMAIN-SUFFIX,xueqiu.com
-  - DOMAIN-KEYWORD,10jqka
-  - IP-CIDR,47.75.231.220/32,no-resolve
-  - IP-CIDR,47.89.2.206/32,no-resolve
