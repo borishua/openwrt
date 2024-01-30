@@ -65,3 +65,4 @@ payload:
   - DOMAIN,cdn.blz-contentstack.com
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,achuanai.com
