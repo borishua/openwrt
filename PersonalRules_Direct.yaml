@@ -318,3 +318,7 @@ payload:
   - DOMAIN-SUFFIX,10jqka.com.cn
   - DOMAIN-SUFFIX,touzime.net
   - DOMAIN-SUFFIX,thsi.cn
+# 智能家居
+  - DOMAIN,vaillant.com.cn
+  - DOMAIN,vaillant.com
+  - DOMAIN,iotwish.com
