@@ -40,6 +40,11 @@ payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
+  - DOMAIN-SUFFIX,autonavi.com
+  - DOMAIN-SUFFIX,amap.com
+  - DOMAIN-SUFFIX,blued.cn
+  - DOMAIN,blued.irisdt.cn
+  - DOMAIN,argo.blued.cn
   - DOMAIN,tracking.miui.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
