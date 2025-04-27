@@ -322,3 +322,6 @@ payload:
   - DOMAIN,vaillant.com.cn
   - DOMAIN,vaillant.com
   - DOMAIN,iotwish.com
+# 数字财政
+  - IP-CIDR,2.46.213.237/31
+  - IP-CIDR,2.46.213.237/32
