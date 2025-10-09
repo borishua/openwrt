@@ -79,6 +79,10 @@ payload:
 #  - DOMAIN-SUFFIX,adguard-dns.com
 #  - DOMAIN,adguard-dns.com
 #  - DOMAIN-SUFFIX,adguard.com
+# aqara
+  - DOMAIN-SUFFIX,ankasa.cn
+  - DOMAIN-SUFFIX,aqara.cn
+  - DOMAIN-SUFFIX,aqara.com
 # 炒股app
 #DOMAIN-SUFFIX,xueqiu.com
   - DOMAIN-KEYWORD,10jqka
