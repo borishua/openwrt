@@ -1,9 +1,16 @@
 ! Title: Personal Rules For Adguard Home
-! Version: 2022-06-30
+! Version: 2025-10-09
 ! ----------------------------Allow----------------------------
 # 数字人民币
 @@||pbcdci.cn^
 @@||*.pbcdci.cn^
+# aqara
+@@||ankasa.cn^
+@@||aqara.cn^
+@@||aqara.com^
+@@||*.ankasa.cn^
+@@||*.aqara.cn^
+@@||*.aqara.com^
 # 云服务 Apple相册同步
 @@||cu-cn-north00002.gala.convection.cn^
 # 大众点评
