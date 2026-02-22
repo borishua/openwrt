@@ -71,7 +71,7 @@
 @@||origin-a.akamaihd.net
 @@||picanalysis.vivo.com.cn
 @@||sycm.mmstat.com
-#@@||tracking.miui.com
+# @@||tracking.miui.com
 @@||vi.l.qq.com
 @@||xivanalysis.com
 @@||dizhensubao.getui.com
