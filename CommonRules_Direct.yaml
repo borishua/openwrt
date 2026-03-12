@@ -48,3 +48,4 @@ payload:
   - DOMAIN,tracking.miui.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
+  - DOMAIN-SUFFIX,tushare.pro
