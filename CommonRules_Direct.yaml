@@ -49,3 +49,5 @@ payload:
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
   - DOMAIN-SUFFIX,tushare.pro
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,eastmoney.com
