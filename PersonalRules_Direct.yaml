@@ -1,5 +1,6 @@
 # 自用规则
 payload:
+  - DOMAIN-SUFFIX,day.app
   - DOMAIN-KEYWORD,unidays
   - DOMAIN-SUFFIX,myunidays.uk
   - DOMAIN-SUFFIX,cmbchina.com
